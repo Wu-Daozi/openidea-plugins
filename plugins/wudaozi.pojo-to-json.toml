@@ -1,0 +1,7 @@
+repository = "https://github.com/Wu-Daozi/openidea-pojo-to-json"
+suggest = ["pom.xml", "build.gradle", "build.gradle.kts"]
+
+[[versions]]
+version = "0.2.1"
+package = "https://github.com/Wu-Daozi/openidea-pojo-to-json/releases/download/v0.2.1/wudaozi.pojo-to-json-0.2.1.oiplugin"
+sha256 = "69910717ec8885820f70025aaf7446ded4b94a159931cabac7f85d9679098596"
